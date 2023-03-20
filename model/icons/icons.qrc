@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>calendar.svg</file>
+        <file>minus.svg</file>
+        <file>plus.svg</file>
+        <file>MANAS_ICON.png</file>
+    </qresource>
+</RCC>
